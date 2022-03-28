@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # vue_app
+=======
+# app
+>>>>>>> dcdfd59b4e0c67cf5eaff2ec43ed586d54d1fb17
 
 ## Project setup
 ```
